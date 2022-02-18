@@ -42,7 +42,7 @@ describe('demo calculator test',function(){
          homepage.verifyResult('11');
 
         //expect(result.getText()).toEqual('5');
-        browser.sleep(5000)
+        browser.sleep(3000)
     
     });
 
